@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Descifrar_PINBLOCK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Descifrar_PINBLOCK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
