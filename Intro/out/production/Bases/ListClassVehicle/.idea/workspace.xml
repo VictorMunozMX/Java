@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="240e0b6f-950e-4886-9dea-d95bffb0ca13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/src/BasicLambda/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/src/BasicLambda/LambdaInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/src/BasicLambda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/src/BasicLambda/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/src/BasicLambda/Walkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/src/PracticalLambda/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/src/PracticalLambda/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lambdas/src/Test01/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/src/main/Java/com/releases/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Releases/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SQLTest/src/main/java/cubo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SQLTest/src/main/java/org/example/Acciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SQLTest/src/main/java/org/example/newUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StreamsApp/StreamsApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/CPT_Tarjeta_Administrativa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/CSA_Tarjeta_Administrativa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/CajaCerano.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/archivoPDF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/FormPrincipal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/FormPrincipal$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/FormPrincipal$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/FormPrincipal$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/FormPrincipal$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/FormPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/FormPrincipal.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/documentPDF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/build/classes/CRDGenerico/documentXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itext-pdfa-5.3.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itext-pdfa-5.3.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itext-pdfa-5.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itext-xtra-5.3.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itext-xtra-5.3.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itext-xtra-5.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itextpdf-5.3.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itextpdf-5.3.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/itextpdf-5.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/itext-5.3.1/notice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6-contrib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6-junit.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/jaxen-1.1.6.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/jaxen-1.1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/xalan/serializer-2.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/xalan/xalan-2.7.2.LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/xalan/xalan-2.7.2.NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/xalan/xalan-2.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/xerces.2.11.LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/xerces.2.11.NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/xercesImpl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/lib/jdom-2.0.6/lib/xml-apis.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/nbproject/private/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/src/CRDGenerico/FormPrincipal.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/src/CRDGenerico/FormPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/src/CRDGenerico/documentPDF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ArmarCRDGenerico/src/CRDGenerico/documentXML.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/.idea/libraries/Descifrar_PINBLOCK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/Descifrar PINBLOCK.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/CipherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/DecipherPB$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/DecipherPB$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/DecipherPB$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/DecipherPB$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/DecipherPB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/DescifradoPB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/FileDrop$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/FileDrop$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/FileDrop$Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/FileDrop$Listener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/FileDrop$TransferableObject$Fetcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/FileDrop$TransferableObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/build/classes/PINBLOCK/FileDrop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/dist/Descifrar_PINBLOCK.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/src/PINBLOCK/CipherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/src/PINBLOCK/DecipherPB.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/src/PINBLOCK/DecipherPB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/src/PINBLOCK/DescifradoPB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Descifrar PINBLOCK/src/PINBLOCK/FileDrop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/SelectISDN.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/build/classes/externalauthenticate/CanalTarjeta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/build/classes/externalauthenticate/CipherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/build/classes/externalauthenticate/ExternalAuthenticate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/src/externalauthenticate/CanalTarjeta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/src/externalauthenticate/CipherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../External Authenticate/src/externalauthenticate/ExternalAuthenticate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/100-125-Ordenes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/125-177-Listados.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/126-151-Listados.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/178-203-Cortes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/255-364-Cortes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/255-364-Ordenes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/365-417-Cortes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/365-417-Ordenes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/Data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/ESTADOS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/GeneraDatosParaEtiquetas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/MPI28150.20190123.STAM1MC2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/build/classes/generadatosparaetiquetas/GeneraDatosParaEtiquetas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/detalleCintillos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/detalleEstados.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GeneraDatosParaEtiquetas/src/generadatosparaetiquetas/GeneraDatosParaEtiquetas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hello World/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hello World/src/helloworld/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hello World/src/helloworld/NewJFrame.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hello World/src/helloworld/NewJFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bases.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bases.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/ArrayNeg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/BalanceString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/BasicClass/Behaviors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/BasicClass/Bikes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/BasicClass/Cars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/BasicClass/Motorcycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/BasicClass/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/BasicClass/confortable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Challenge01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Collection/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/CourseJava01/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/CourseJava01/TicketMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/CourseJava02/GradingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/CourseJava02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/EnhancedForLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/FReader/AppFileRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/HashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Hospital_class/Doctor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Hospital_class/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Hospital_class/Patient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Hospital_class/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Hospital_class/rStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Ifelse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Inputs/InputFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Inputs/MyUtils$fooException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Inputs/MyUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Inputs/TestFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Bases/Inputs/TestFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/ListClassVehicle/AppLC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/ListClassVehicle/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/ListClassVehicle/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/ListInsertDelete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/MapData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/MethodArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/MyUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/SQL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/School_class/Control.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/School_class/Courses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/School_class/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/order_withclass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bases/order_withclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CourseJava01/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CourseJava01/TicketMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CourseJava02/GradingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CourseJava02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FReader/AppFileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FReader/AppFileRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hospital_class/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hospital_class/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hospital_class/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hospital_class/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hospital_class/rStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ifelse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inputs/TestFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Inputs/TestFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../School_class/Control.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../School_class/Courses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../School_class/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order_withclass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/BOTONES/AccionBotones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/BOTONES/TstAccionBotones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/BOTONES/TstBotones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/CORRIDA/TAREA1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/Calculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/Calculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/Circulo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/Circulo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/ThreadIsAlive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/TstCirculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/TstCirculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/entero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/exam1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/hilos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/EXAMEN_VEMA/hilos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Calculo (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Calculo (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Calculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Calculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Rectangulo (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Rectangulo (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Rectangulo$1 (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Rectangulo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Rectangulo$2 (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Rectangulo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Rectangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/Rectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/TstRectangulo (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/TstRectangulo (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/TstRectangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/RECTANGULO/TstRectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/Consume (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/Consume (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/Consume.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/Consume.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/Produce (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/Produce (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/Produce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/Produce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/ProducirConsumir (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/ProducirConsumir (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/ProducirConsumir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/ProducirConsumir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/entero (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/entero (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/entero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA2/entero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA3/Cliente (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA3/Cliente (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA3/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA3/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA3/Servidor (2).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA3/Servidor (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA3/Servidor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practices/TAREA3/Servidor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2vEoCcIZN72XpkMCc43uuiVT1HB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/PRIVATE/Development/Java/Intro/src/ListClassVehicle",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18968.26" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18968.26" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="240e0b6f-950e-4886-9dea-d95bffb0ca13" name="Changes" comment="" />
+      <created>1743719467595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743719467595</updated>
+      <workItem from="1743719468611" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

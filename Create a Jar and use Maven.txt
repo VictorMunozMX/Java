@@ -1,0 +1,32 @@
+How to create a Jar file in Java
+1. create your program and save it has you want. ex. miprogram.java
+2. execute with javac in cmd. ex. javac miprogram.java	this action create another file call miprogram.class
+3. create a file call mf = manifiest. ex. a txt and change the extntion. --> Main-Class: miprogram 	ext = manifiest.mf
+4. execute in cmd teh command: jar -cvfm miprogram.jar manifiest.mf *.class 	-->miprogram.jar is ready
+5. execute now: java -jar miprogram.jar, you could see the result of your program
+6. execute now: jar -tvf miprogram.jar	--> you can see all the file generated
+
+CRM (Customer Relationship Management o Gestión de Relaciones con el Cliente).
+DevOps	Development / IT operations
+CI/CD 	Continuos implementation/ continuos deployment
+MVC Model view Controller
+
+Maven:
+
+Create a project in CMD
+mvn archetype:generate -DgroupId=com.curso -DartifactId=TestMaven - project in maven
+mvn archetype:generate -DgroupId=com.curso -DartifactId=TestWeb -DarchetypeArtifactId=maven-archetype-webapp - project in maven but web
+mvn -v
+mvn clean
+mvn compile
+mvn test
+mvn package - crea un jar
+mvn install
+mvn pmd:pmd - análisis de código estático que ayuda a detectar errores comunes, código innecesario o problemático, y posibles vulnerabilidades en el código fuente de Java.
+mvn javadoc:javadoc -  generar automáticamente documentación en HTML a partir de comentarios especiales en el código fuente.
+mvn site:site - página web generada automáticamente que ofrece documentación y métricas del proyecto, incluyendo Javadoc, análisis de código, dependencias y más.
+mvn dependency:tree - mostrar todas las dependencias de un proyecto en forma de árbol, incluyendo dependencias directas e indirectas
+mvn dependency:resolve - sama as previous but in order
+mvn dependency:analize - analize all the dependencies, wich one is in use or no
+mvn eclipse:eclipse - para que pueda ser reconocido por eclipse
+

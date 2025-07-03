@@ -5,6 +5,7 @@ public class HashSet {
         // create two arrays with 5 elements each type string
         String[] array1 = {"Vic", "Karem", "Vic", "Kat", "Kat"};
         String[] array2 = {"Mun", "Esp", "Mun", "Tom", "Tom"};
+
         //create a list with pares of strings between the two arrays
         List<String> list = new ArrayList<>();
         for (int i = 0; i < array1.length; i++) {

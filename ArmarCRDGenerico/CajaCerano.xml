@@ -1,7 +1,0 @@
-<DATOS cadenaLength="715" iCVVOffset="290" CVVOffset="127">
-  <CAMPO nombre="cuenta" inicial="7" final="26">$</CAMPO>
-  <CAMPO nombre="fecha" inicial="27" final="32">*</CAMPO>
-  <CAMPO nombre="nombre" inicial="33" final="54">)</CAMPO>  
-  <CAMPO nombre="indent" inicial="55" final="58">@</CAMPO>
-  <CAMPO nombre="banda" inicial="59" final="176">"</CAMPO>
-</DATOS>

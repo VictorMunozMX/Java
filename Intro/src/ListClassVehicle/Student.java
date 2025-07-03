@@ -1,7 +1,5 @@
 package ListClassVehicle;
 
-import java.sql.SQLOutput;
-
 public class Student {
 
     private String name;

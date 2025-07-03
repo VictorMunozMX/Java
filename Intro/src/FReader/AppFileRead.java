@@ -1,7 +1,6 @@
 package FReader;
 
 import java.io.*;
-import java.sql.SQLOutput;
 
 public class AppFileRead {
     public static void main(String[] args) {

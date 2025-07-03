@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ArmarCRDGenerico/src"/>
+	<classpathentry kind="src" path="Descifrar PINBLOCK/src"/>
+	<classpathentry kind="src" path="External Authenticate/src"/>
+	<classpathentry kind="src" path="GeneraDatosParaEtiquetas/src"/>
+	<classpathentry kind="src" path="Hello World/src"/>
+	<classpathentry kind="src" path="Intro/src"/>
+	<classpathentry kind="src" path="Practices/BOTONES"/>
+	<classpathentry kind="src" path="Practices/CORRIDA"/>
+	<classpathentry kind="src" path="Practices/EXAMEN_VEMA"/>
+	<classpathentry kind="src" path="Practices/RECTANGULO"/>
+	<classpathentry kind="src" path="Practices/TAREA2"/>
+	<classpathentry kind="src" path="Practices/TAREA3"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itextpdf-5.3.1.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itextpdf-5.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itextpdf-5.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itext-pdfa-5.3.1.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itext-pdfa-5.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itext-pdfa-5.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itext-xtra-5.3.1.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itext-xtra-5.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/itext-5.3.1/itext-xtra-5.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/lib/xalan/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/lib/xalan/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="ArmarCRDGenerico/lib/jdom-2.0.6/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="Descifrar PINBLOCK/dist/Descifrar_PINBLOCK.jar"/>
+	<classpathentry kind="output" path="ArmarCRDGenerico/build/classes"/>
+</classpath>

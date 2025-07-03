@@ -28,6 +28,7 @@ public class ArrayNeg {
         int res = 0;
         int vec = 0;
         int cnt = size;
+
         for (int i = 0; i < size; i++) {
             for (int j = 0; j < cnt; j++) {
                 while (vec <= i) {
